@@ -1,0 +1,23 @@
+{
+  "name": "fake-api-server-nodejs",
+  "version": "1.0.0",
+  "description": "Fake API Server written using Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solomonrajkumar/fake-api-server-nodejs.git"
+  },
+  "keywords": [
+    "Typescript",
+    "NodeJS"
+  ],
+  "author": "Rajkumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solomonrajkumar/fake-api-server-nodejs/issues"
+  },
+  "homepage": "https://github.com/solomonrajkumar/fake-api-server-nodejs#readme"
+}
