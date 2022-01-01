@@ -1,8 +1,10 @@
-☐ Ideation @started(21-12-30 22:48)
+✔ Ideation @started(21-12-30 22:48) @done(22-01-01 17:47) @lasted(1d18h59m26s)
+    ✔ Build a simple backend api to manage products. This could be a microservice for a large ecomm site. Could be named "Product Store" @started(22-01-01 17:46) @done(22-01-01 17:47) @lasted(1m26s)
 
-☐ Design dummy models
+☐ Design dummy model
+    ✔ Product @started(22-01-01 17:47) @done(22-01-01 17:47) @lasted(20s)
 
-☐ Build App
+☐ Build App @started(22-01-01 17:47)
     ☐ Unit Tests
     ☐ Integration Tests
     ☐ Build using TDD
